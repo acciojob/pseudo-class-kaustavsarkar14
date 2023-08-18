@@ -4,12 +4,12 @@
 	
 }
 #container::after {
-	content: 'Before Element';
+	content: 'After Element';
 	color: rgb(255, 0, 0);
 	font-size: 20px;
 }
 #container::before {
-	content: 'After Element';
+	content: 'Before Element';
 	color: rgb(255, 0, 0);
 	font-size: 20px;
 	
